@@ -24,6 +24,7 @@ with open("text1.txt",'r') as fp:
 with open("copytxt",'w') as fp1:
     fp1.write(msg1)
 
+
 ### OUTPUT:
 ![image](https://github.com/Sanjay-sg/copy-file/assets/119559022/5fb8cb60-d5c0-44f0-b4c7-02369ec03819)
 
